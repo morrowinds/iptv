@@ -24,9 +24,7 @@ permalink: /
 </div>
 ------
 
-如不愿折腾开源项目，推荐直接下载第三方开发的软件 **直播电视** APP 使用，手机电视盒子都兼容，免费无广告。
-
-直播电视APP 下载地址：[https://izbds.com/aztv/](https://izbds.com/aztv/)    
+ 
 
 ------
 
@@ -52,23 +50,23 @@ permalink: /
   </tr>
   <tr>
     <td>TXT 格式直播源</td>
-    <td><a href="https://live.zbds.top/tv/iptv4.txt">https://live.zbds.top/tv/iptv4.txt</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv4.txt')">快速复制</button></td>
+    <td><a href="https://iptv.ziyi.cc/tv/iptv4.txt">https://iptv.ziyi.cc/tv/iptv4.txt</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://iptv.ziyi.cc/tv/iptv4.txt')">快速复制</button></td>
   </tr>
   <tr>
     <td>M3U 格式直播源（已带台标和EPG）</td>
-    <td><a href="https://live.zbds.top/tv/iptv4.m3u">https://live.zbds.top/tv/iptv4.m3u</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv4.m3u')">快速复制</button></td>
+    <td><a href="https://iptv.ziyi.cc/tv/iptv4.m3u">https://iptv.ziyi.cc/tv/iptv4.m3u</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://iptv.ziyi.cc/tv/iptv4.m3u')">快速复制</button></td>
   </tr>
 </table>
 *如果你打不开github域名，请使用加速地址访问，加速地址也失效了？那就在找一个*
 
 ```
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+https://gh-proxy.com/raw.githubusercontent.com/morrowinds/iptv/refs/heads/master/tv/iptv4.txt
 ```
 
 ```
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+https://gh-proxy.com/raw.githubusercontent.com/morrowinds/iptv/refs/heads/master/tv/iptv4.m3u
 ```
 
 
@@ -95,24 +93,24 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
   </tr>
   <tr>
     <td>TXT 格式直播源</td>
-    <td><a href="https://live.zbds.top/tv/iptv6.txt">https://live.zbds.top/tv/iptv6.txt</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv6.txt')">快速复制</button></td>
+    <td><a href="https://iptv.ziyi.cc/tv/iptv6.txt">https://iptv.ziyi.cc/tv/iptv6.txt</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://iptv.ziyi.cc/tv/iptv6.txt')">快速复制</button></td>
   </tr>
   <tr>
     <td>M3U 格式直播源（已带台标和EPG）</td>
-    <td><a href="https://live.zbds.top/tv/iptv6.m3u">https://live.zbds.top/tv/iptv6.m3u</a></td>
-    <td><button class="button" onclick="copyToClipboard('https://live.zbds.top/tv/iptv6.m3u')">快速复制</button></td>
+    <td><a href="https://iptv.ziyi.cc/tv/iptv6.m3u">https://iptv.ziyi.cc/tv/iptv6.m3u</a></td>
+    <td><button class="button" onclick="copyToClipboard('https://iptv.ziyi.cc/tv/iptv6.m3u')">快速复制</button></td>
   </tr>
 </table>
 
 *有地方的宽带运营商已经污染本项目域名了，如果你打开失败，请使用加速地址访问*
 
 ```
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.txt
+https://gh-proxy.com/raw.githubusercontent.com/morrowinds/iptv/refs/heads/master/tv/iptv6.txt
 ```
 
 ```
-https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+https://gh-proxy.com/raw.githubusercontent.com/morrowinds/iptv/refs/heads/master/tv/iptv6.m3u
 ```
 
 
@@ -130,10 +128,6 @@ https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv
 <p>我们提供多种<strong>直播源</strong>相关工具，帮助您更好地使用<strong>IPTV直播源</strong>：</p>
 
 
-
-### 直播源开源站点地址
-
-- [https://live.zbds.top/](https://live.zbds.top/)
 
 
 
