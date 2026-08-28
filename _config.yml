@@ -6,7 +6,7 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 # 现有配置保持不变...
-url: https://iptv.ziyi.cc
+url: https://v.zbds.top
 google_analytics: # 如果有 Google Analytics 代码，请添加到这里
 theme: jekyll-theme-cayman
 #remote_theme: pages-themes/cayman@v0.2.0
@@ -19,11 +19,11 @@ image_alt: IPTV 直播源演示截图
 lang: zh-CN
 twitter:
   card: summary_large_image
-  username: morrowinds
+  username: vbskycn
 social:
-  name: morrowinds
+  name: vbskycn
   links:
-    - https://github.com/morrowinds/iptv
+    - https://github.com/vbskycn/iptv
 
 # 添加 Google AdSense 配置
 google_adsense: ca-pub-6941806026814791
@@ -39,8 +39,8 @@ apple_touch_icon: favicon.ico
 
 # 添加社交媒体图标
 social:
-  github: morrowinds/iptv
-  telegram: xxxxxxx
+  github: vbskycn/iptv
+  telegram: starkluistn98
 
 # 添加自定义样式
 sass:
